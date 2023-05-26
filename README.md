@@ -1,18 +1,21 @@
-### Hi there!  👋
-#### My name is Nikolai and I'm a backend developer. I am developing in Java.
+## Hi there, my name is Nikolai  👋
+#### I'm a backend developer and developing in Java.
 
 ### **My projects:**
 
-🎭  **Explore With Me** (дипломный проект) — бекэнд афиши событий. Микросервисная архитектура с использованием Spring Boot, Hibernate, PostgreSQL, Docker, Postman.
+🎭  **Explore With Me** (graduation project) — event poster backend. Microservice architecture using Spring Boot, 
+Hibernate, PostgreSQL, Docker, Postman.<br />
 https://github.com/Nickadm7/java-explore-with-me
 
-📒 **SimpleSeoAI** - REST-сервис взаимодействующий с ChatGPT по API. Используя Spring Boot, Maven, Lombok и взаимодействие с БД PostgreSQL.
+📒 **SimpleSeoAI** - REST service interacting with ChatGPT via API. 
+Using Spring Boot, Spring Security, Maven, Lombok and interaction with PostgreSQL database.<br />
 https://github.com/Nickadm7/simpleseoai
 
-🔄  **Share It** - бекэнд сервиса для совместного использования вещей на Spring Boot, используя Hibernate, микросервисы Docker Compose, JUnit, Mokito
+🔄  **Share It** - service backend for sharing things on Spring Boot using Hibernate, Docker Compose microservices, 
+JUnit, Mokito.<br />
 https://github.com/Nickadm7/java-shareit
 
-📅  **Java kanban** - backend трекера задач. Java Core, JUnit.
+📅  **Java kanban** - task tracker backend. Java Core, JUnit.<br />
 https://github.com/Nickadm7/java-kanban
 
 ### **Technologies which I use**:
