@@ -27,8 +27,8 @@ https://github.com/Nickadm7/java-kanban
   <img src="./images/sql.png" alt="SQL logo" height="48" title="SQL">
   <img src="./images/postgresql.png" alt="PostgreSQL logo" height="48" title="PostgreSQL">
   <img src ="./images/docker.png" alt="Docker logo" height="48" title='Docker'/>
-  <img src ="./images/junit.png" alt="JUnit5 logo" height="48" title='JUnit 5'/>
-  <img src ="./images/intellij.png" alt="Intellij logo" height="48" title='intellij'/>  
-  <img src ="./images/postman.png" alt="Postman logo" height="48" title='postman'/>
+  <img src ="./images/junit.png" alt="JUnit5 logo" height="48" title='JUnit 5'/>  
+  <img src ="./images/intellij.png" alt="Intellij logo" height="48" title='intellij'/>
   <img src ="./images/vaadin.png" alt="Vaadin logo" height="48" title='vaadin'/>
+  <img src ="./images/postman.png" alt="Postman logo" height="48" title='postman'/> 
 </div>
