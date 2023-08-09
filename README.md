@@ -19,6 +19,8 @@ https://github.com/Nickadm7/java-shareit
 📅  **Java kanban** - task tracker backend. Java Core, JUnit.<br />
 https://github.com/Nickadm7/java-kanban
 
+More than a hundred tasks have been solved on LeetCode https://leetcode.com/NickFilin/
+
 ### **Technologies which I use**:
 
 <div>
